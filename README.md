@@ -9,8 +9,8 @@ Hi there! I’m **Boss Natiyut**, a future computer science based in somewhere. 
 - Triamudomsuksanimklao School
 - Chulalongkorn University
 
-## Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skill & Tool
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,notion,py,sketchup,vscode,windows)](https://skillicons.dev)
 
 
 <!--
