@@ -1,8 +1,9 @@
-## Welcome to My Profile
+## Welcome to My Profile :bookmark:
 Hi there! I’m Boss Natiyut, a future computer science based in somewhere. I’m study Chulalongkorn Universityat I'm always excited to explore new challenges and opportunities.
 
-## Skill
+## Skill :hammer:
 - Grader
+- Mycourseville
 
 
 <!--
