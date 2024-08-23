@@ -6,7 +6,7 @@ Hi there! I’m Boss Natiyut, a future computer science based in somewhere. I’
 - Mycourseville
 
 ## Education
-- TRIAMUDOMSUKSANIMKLAO SCHOOL
+- Triamudomsuksanimklao School
 - Chulalongkorn University
 
 
