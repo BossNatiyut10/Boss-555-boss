@@ -4,7 +4,7 @@ Hi there! I’m Boss Natiyut, a future computer science based in somewhere. I’
 ## Skill
 - Grader
 
-[![Professor] (https://github.com/Boss-555-boss/Boss-555-boss/blob/main/Screenshot%202024-08-23%20134936.png)](https://github.com/Boss-555-boss/Boss-555-boss/blob/main/Screenshot%202024-08-23%20134936.png)
+![Professor Natee](https://github.com/Boss-555-boss/Boss-555-boss/blob/main/Screenshot%202024-08-23%20134936.png)
 <!--
 **Boss-555-boss/Boss-555-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Professor Natee](https://github.com/user-attachments/assets/aa211225-f11a-4161-8acf-1b05a7729667)
