@@ -11,10 +11,10 @@ Hi there! I’m **Boss Natiyut**, a future computer science based in somewhere. 
 - Chulalongkorn University
 
 ## Skill & Tool :truck:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,notion,py,sketchup,vscode,windows)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,notion,py,sketchup,vscode,windows)]
 
 ## Contact
-![Github](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg)
+![Ig](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg) **tree_b_aa**
 <!--
 **Boss-555-boss/Boss-555-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Professor Natee](https://github.com/user-attachments/assets/aa211225-f11a-4161-8acf-1b05a7729667)
