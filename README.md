@@ -1,8 +1,5 @@
-## Who am I?
-My name is Boss.
-
-Computer Engineering and Digital Technology
-
+## Welcome to My Profile
+Hi there! I’m Boss Natiyut, a future computer science based in somewhere. I’m study Chulalongkorn Universityat I'm always excited to explore new challenges and opportunities.
 <!--
 **Boss-555-boss/Boss-555-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
