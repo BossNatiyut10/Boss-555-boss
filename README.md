@@ -1,4 +1,5 @@
 ## Welcome to My Profile :pushpin:
+![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true)
 Hi there! I’m **Boss Natiyut**, a future computer science based in somewhere. I’m study *Chulalongkorn University*. I'm always excited to explore new challenges and opportunities.
 
 ## Experience :construction_worker:
@@ -9,7 +10,7 @@ Hi there! I’m **Boss Natiyut**, a future computer science based in somewhere. 
 - Triamudomsuksanimklao School
 - Chulalongkorn University
 
-## Skill & Tool
+## Skill & Tool :pushpin:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,notion,py,sketchup,vscode,windows)](https://skillicons.dev)
 
 
