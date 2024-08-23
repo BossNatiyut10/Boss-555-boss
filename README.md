@@ -11,10 +11,13 @@ Hi there! I’m *Boss Natiyut*, a future computer science based in somewhere. I�
 - Chulalongkorn University
 
 ## My Skill
-- Coding <br>
+ - ### Coding <br><br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)
-- Tool <br>
+- ### Tool <br><br>
 ![My Skills](https://skillicons.dev/icons?i=notion,sketchup,vscode,windows)
+
+## Contact
+
 
 <!--
 **Boss-555-boss/Boss-555-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
