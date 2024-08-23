@@ -11,9 +11,9 @@ Hi there! Iâ€™m *Boss Natiyut*, a future computer science based in somewhere. Iâ
 - Chulalongkorn University
 
 ## My Skill
-- Skill
+- Coding <br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)
-- Tool
+- Tool <br>
 ![My Skills](https://skillicons.dev/icons?i=notion,sketchup,vscode,windows)
 
 <!--
