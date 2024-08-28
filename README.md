@@ -1,6 +1,6 @@
 ## Welcome to My Profile :pushpin:
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true) ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg) <br>
-Hi there! I’m *Boss Natiyut*, a future computer science based in somewhere. I’m study *Chulalongkorn University*. I'm always excited to explore new challenges and opportunities.
+Hi there! I’m *Boss Natiyut*, a future computer science based in somewhere. I’m study at *Chulalongkorn University*. I'm always excited to explore new challenges and opportunities.
 
 ## Experience :construction_worker:
 - Grader
