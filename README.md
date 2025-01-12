@@ -7,8 +7,8 @@ Hi there! Iâ€™m *Boss Natiyut*, a future computer science based in somewhere. Iâ
 - Mycourseville
 
 ## Education :necktie:
-- Triamudomsuksanimklao School
-- Chulalongkorn University
+- Triamudomsuksanimklao School | 2018 - 2024
+- Chulalongkorn University | 2024 - Now
 
 ## My Skill
  - ### Coding <br>
