@@ -12,7 +12,7 @@ Hi there! Iâ€™m *Boss Natiyut*, a future computer science based in somewhere. Iâ
 
 ## My Skill
  - ### Coding <br>
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)
 - ### Tool <br>
 ![My Skills](https://skillicons.dev/icons?i=vscode,windows)
 <!--
